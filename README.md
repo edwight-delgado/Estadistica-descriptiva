@@ -115,7 +115,7 @@ mas sobre escalado de datos [aqui](https://interactivechaos.com/es/manual/tutori
 
 ## Transformación no lineal
 ![image](screenshot/dibujo3.png)
-![image](sccreenshot/transformacion_no_lineal.png)
+![image](screenshot/transformacion_no_lineal.png)
 
 la transformacion no lineal lo que hace es transformar una distribucion sesgada a una distribucion simetrica. esto lo hace 
 aplicando una funcion como la targente hiperbolica. que al ingresar valores sesgados cercano a cero. la salida de la targente hiperbolica es mover la distribucion, en el grafico la salida despues de aplicar la transformacion es la linea morada  
