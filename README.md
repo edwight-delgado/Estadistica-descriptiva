@@ -39,7 +39,7 @@ normales sin outliers
 
 **distribuciones no simetricas**:en el caso de una distribucion asimetrica se hace algo parecido a la formula anterior para dectectar los maximos y los minimos normales. la diferencia esta en que se aplica una funcion(f) al quantir Q1 y una funcion (g) al quantir Q3 
 
-![image](formula_interquantil_asimetrica.png)
+![image](screenshot/formula_interquantil_asimetrica.png)
 
 ## Medidas de dispersión en Python
 [Medidas de dispersión](https://deepnote.com/project/curso-estadistica-descriptiva-2021-P1aZSOmoRU-PTaJ6oWEKhw/%2Fplatzi-curso-estadistica-descriptiva-2021%2F%5Bclase-10%5Dmedidas-dispersion.ipynb)
@@ -348,8 +348,10 @@ np.matmul(A, B)
 ## PCA: análisis de componentes principales
 [deepnote](https://deepnote.com/project/curso-estadistica-descriptiva-2021-P1aZSOmoRU-PTaJ6oWEKhw/%2Fplatzi-curso-estadistica-descriptiva-2021%2F%5Bclase-22%5DPCA.ipynb)
 
+```Python
 print(variance_explained)
 [72.9624454132999, 22.850761786701725, 3.6689218892828612, 0.5178709107154993]
+```
 
 **interpretacion**
 
